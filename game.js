@@ -65,6 +65,7 @@ function updateTimer() {
   }
 }
 
+
 // Iteration 6: Write a code to start the game by calling the first zombie
 createZombie();
 
